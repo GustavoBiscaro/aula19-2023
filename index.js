@@ -1,5 +1,6 @@
+const nomeCliente = "Gustavo";
+const idadeCliente = 26;
+const eMembro = true;
 
-const nomeCliente = "adriano";
-const idadeCliente = 18;
-const eMembro = true
-console.log(nomeCliente,idadeCliente,eMembro);
+
+console.log(nomeCliente, idadeCliente, eMembro); 
