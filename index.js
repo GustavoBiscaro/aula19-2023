@@ -1,5 +1,12 @@
-const nomeCliente = "Gustavo";
-const idadeCliente = 26;
+
+
+
+
+
+
+
+const nomeCliente = "Henrique";
+const idadeCliente = 31;
 const eMembro = true;
 
 
